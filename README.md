@@ -1,0 +1,3 @@
+The Tourism Project is a web-based application developed using HTML, CSS, and JavaScript to provide information about famous tourist destinations. The main purpose of this project is to help users easily explore different tourist places, view images, and learn important details such as location, history, attractions, and travel highlights.
+
+This website acts as a digital tourism guide, where users can browse various destinations through a simple and attractive interface. The project includes features like a home page, search option, image gallery, and detailed information pages for each tourist place.
